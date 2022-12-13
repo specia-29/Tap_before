@@ -29,7 +29,7 @@
 - 自分の行動履歴を残しておきたい時
 
 ## 設計書
-<...>
+
 ### 実装機能リスト
 https://docs.google.com/spreadsheets/d/1v4UZlCNpb3qAFmDK97ocLG24Ld8pxRiQfTNRdUbR0O4/edit?usp=sharing
 
